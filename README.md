@@ -31,7 +31,6 @@
     <section class="items-section" aria-labelledby="items-title">
       <h2 id="items-title">Предмети</h2>
       <div id="itemsGrid" class="grid" role="list" aria-label="Список предметів"></div>
-      <div id="noResults" class="no-results hidden">Нічого не знайдено.</div>
     </section>
 
     <aside class="sidebar" aria-labelledby="bosses-title">
@@ -41,7 +40,6 @@
   </main>
 
   <footer class="site-footer">
-    <p class="muted">Порада: додай зображення або посилання на сторінки вікі. Зображення використовуються з Terraria Wiki (Gamepedia) — перевір права на використання при комерційному розміщенні.</p>
   </footer>
 
   <script src="script.js"></script>
